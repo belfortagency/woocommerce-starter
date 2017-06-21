@@ -1,2 +1,7 @@
 .htaccess
 wp-config.php
+
+wp-content/uploads/
+sitemap.xml
+wp-content/cache/
+.DS_Store
