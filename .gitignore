@@ -1,10 +1,9 @@
 .htaccess
-wp-config.php
-
-wp-content/uploads/
-sitemap.xml
-wp-content/cache/
-wp-content/themes/belfort-wordpress-starter
 .DS_Store
+sitemap.xml
+wp-config.php
+wp-content/cache/
+wp-content/uploads/
+wp-content/themes/belfort-wordpress-starter
 wp-content/advanced-cache.php
 wp-content/w3tc-config/
