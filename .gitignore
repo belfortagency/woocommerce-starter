@@ -4,4 +4,5 @@ wp-config.php
 wp-content/uploads/
 sitemap.xml
 wp-content/cache/
+wp-content/themes/belfort-wordpress-starter
 .DS_Store
