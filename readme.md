@@ -6,3 +6,13 @@
 * Run `bower install` and `npm install` in theme directory
 * Activate theme and plugins
 * Configure plugins (TODO add plugin configurations)
+
+## Plugins installed
+
+* BJ Lazy Load
+* Display all image sizes
+* Google sitemap generator
+* w3 Total Cache
+* Facebook Open Graph, Google+ and Twitter Card Tags
+* Yoast SEO
+* WP Smushit
